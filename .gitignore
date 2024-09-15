@@ -10,7 +10,7 @@ venv/
 # Ignore data directories
 data/
 *.csv
-*.json
+
 *.db
 proxt_pool/
 

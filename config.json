@@ -1,0 +1,9 @@
+{
+    "proxy_enabled": false,
+    "max_workers": 10,
+    "delay_between_requests": 1.5,
+    "num_profiles_to_scrape": 1000,
+    "use_proxy_pool": false,
+    "proxy_pool_url": "http://localhost:5010/get?type=https"
+  }
+  
