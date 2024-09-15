@@ -1,7 +1,3 @@
-Here is a detailed and industry-grade `README.md` file for your project:
-
----
-
 # Personality Profiles Data Scraper
 
 This project is a multi-threaded data scraper that collects and processes personality profile data from an API and Wikipedia. It includes SQLite database handling, JSON data storage, and support for proxy usage. The scraper processes personality profiles, typing data, and comments from the Personality Database API, and enriches the data with detailed Wikipedia information.
@@ -230,7 +226,3 @@ Contributions to improve the project are welcome! Please fork the repository, cr
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README should give you a clear overview of the project, explain how to configure and run it, and provide details about error handling, logging, and the database structure.
