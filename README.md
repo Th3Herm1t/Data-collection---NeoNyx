@@ -35,8 +35,8 @@ This project is a multi-threaded data scraper that collects and processes person
 ├── personality_profiles.db     # SQLite database to store profile data
 ├── config.json                 # Configuration file for scraper settings
 ├── main.py                     # Main script for scraping personality data
-├── wiki_scraper.py             # Script to scrape and enrich data with Wikipedia information
-├── data_merger.py              # Script to merge personality and Wikipedia data
+├── wikipedia.py             # Script to scrape and enrich data with Wikipedia information
+├── exporter 2.0.py              # Script to merge personality and Wikipedia data
 └── README.md                   # Project documentation
 ```
 
