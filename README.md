@@ -119,7 +119,7 @@ This script will:
 To scrape Wikipedia pages related to the personality profiles:
 
 ```bash
-python wiki_scraper.py
+python wikipedia.py
 ```
 
 This script will:
@@ -133,7 +133,7 @@ This script will:
 To merge the profile data, typing data, and Wikipedia information into a single dataset:
 
 ```bash
-python data_merger.py
+python exporter 2.0.py
 ```
 
 This script will:
@@ -153,7 +153,7 @@ This script will:
 Example:
 
 ```bash
-python data_merger.py --output_format json
+python exporter 2.0.py --output_format json
 ```
 
 ## Database Schema
