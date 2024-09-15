@@ -1,6 +1,6 @@
 # Personality Profiles Data Scraper
 
-**Disclaimer**
+**Disclaimer:**
 This project involves web scraping data from the Personality Database API and Wikipedia. Ensure that you have permission to scrape and use data from these websites in accordance with their Terms of Service and any applicable laws or regulations. The author of this project assumes no responsibility for any misuse of this tool or violation of terms of service of the websites being scraped.
 
 This project is a multi-threaded data scraper that collects and processes personality profile data from an API and Wikipedia. It includes SQLite database handling, JSON data storage, and support for proxy usage. The scraper processes personality profiles, typing data, and comments from the Personality Database API, and enriches the data with detailed Wikipedia information.
